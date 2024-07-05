@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataCategoryGroup xmlns="http://soap.sforce.com/2006/04/metadata">
+    <active>true</active>
+    <dataCategory>
+        <dataCategory>
+            <dataCategory>
+                <label>Onboarding FAQ</label>
+                <name>Onboarding_FAQ</name>
+            </dataCategory>
+            <dataCategory>
+                <label>Onboarding Guides Per Role</label>
+                <name>Onboarding_Guides_Per_Role</name>
+            </dataCategory>
+            <label>Onboarding</label>
+            <name>Onboarding</name>
+        </dataCategory>
+        <dataCategory>
+            <dataCategory>
+                <label>The Players Forum</label>
+                <name>The_Players_Forum</name>
+            </dataCategory>
+            <dataCategory>
+                <label>Career Path</label>
+                <name>Career_Path</name>
+            </dataCategory>
+            <label>Career</label>
+            <name>Career</name>
+        </dataCategory>
+        <dataCategory>
+            <dataCategory>
+                <label>QA Testing Certifications</label>
+                <name>QA_Testing_Certifications</name>
+            </dataCategory>
+            <dataCategory>
+                <label>Mulesoft Certifications</label>
+                <name>Mulesoft_Certifications</name>
+            </dataCategory>
+            <dataCategory>
+                <label>Salesforce Study Groups</label>
+                <name>Salesforce_Study_Groups</name>
+            </dataCategory>
+            <label>Certifications</label>
+            <name>Certifications</name>
+        </dataCategory>
+        <dataCategory>
+            <dataCategory>
+                <label>Leave Requests</label>
+                <name>Leave_Requests</name>
+            </dataCategory>
+            <dataCategory>
+                <label>Study Leave and Certifications</label>
+                <name>Study_Leave_and_Certifications</name>
+            </dataCategory>
+            <dataCategory>
+                <label>Internal Referral Programs</label>
+                <name>Internal_Referral_Programs</name>
+            </dataCategory>
+            <dataCategory>
+                <label>Culture Amp</label>
+                <name>Culture_Amp</name>
+            </dataCategory>
+            <dataCategory>
+                <label>Salesforce Technical Processes</label>
+                <name>Salesforce_Technical_Processes</name>
+            </dataCategory>
+            <dataCategory>
+                <label>Recruitment</label>
+                <name>Recruitment</name>
+            </dataCategory>
+            <label>Processes &amp; Policies</label>
+            <name>Processes_Policies</name>
+        </dataCategory>
+        <dataCategory>
+            <dataCategory>
+                <label>Lunch and Learn</label>
+                <name>Lunch_and_Learn</name>
+            </dataCategory>
+            <label>General</label>
+            <name>General</name>
+        </dataCategory>
+        <dataCategory>
+            <label>Archive</label>
+            <name>Archive</name>
+        </dataCategory>
+        <label>All</label>
+        <name>All</name>
+    </dataCategory>
+    <description>This is the internal guides description</description>
+    <label>Internal Guides</label>
+    <objectUsage>
+        <object>SvcCatalogItemDef</object>
+        <object>KnowledgeArticleVersion</object>
+    </objectUsage>
+</DataCategoryGroup>

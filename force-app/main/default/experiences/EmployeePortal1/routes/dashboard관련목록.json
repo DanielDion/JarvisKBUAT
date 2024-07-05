@@ -1,0 +1,11 @@
+{
+  "activeViewId" : "371ee44c-1212-46f3-b7f3-5a8dc38c582f",
+  "appPageId" : "7945fd4d-d5d2-403e-bc9f-6f3a42c99835",
+  "configurationTags" : [ ],
+  "devName" : "relatedlist_01Z",
+  "id" : "6de8774e-a36a-483d-9fff-5b01872f9e26",
+  "label" : "Dashboard 관련 목록",
+  "routeType" : "relatedlist-01Z",
+  "type" : "route",
+  "urlPrefix" : "dashboard"
+}

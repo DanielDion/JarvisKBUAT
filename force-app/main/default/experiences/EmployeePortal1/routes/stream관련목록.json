@@ -1,0 +1,11 @@
+{
+  "activeViewId" : "84bf8301-a8bd-405d-9693-e69ca357f2c4",
+  "appPageId" : "7945fd4d-d5d2-403e-bc9f-6f3a42c99835",
+  "configurationTags" : [ ],
+  "devName" : "relatedlist_0Fq",
+  "id" : "35df007e-679c-415b-8f6f-c960f5e29494",
+  "label" : "Stream 관련 목록",
+  "routeType" : "relatedlist-0Fq",
+  "type" : "route",
+  "urlPrefix" : "streams"
+}

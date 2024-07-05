@@ -1,0 +1,11 @@
+{
+  "activeViewId" : "62c7bc13-1bdc-4ad2-9d29-e01d1ae5f206",
+  "appPageId" : "7945fd4d-d5d2-403e-bc9f-6f3a42c99835",
+  "configurationTags" : [ ],
+  "devName" : "relatedlist_500",
+  "id" : "469469e0-ce67-4580-b0a9-b36744ca7f39",
+  "label" : "Case 관련 목록",
+  "routeType" : "relatedlist-500",
+  "type" : "route",
+  "urlPrefix" : "case"
+}

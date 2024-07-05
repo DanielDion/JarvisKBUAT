@@ -1,0 +1,11 @@
+{
+  "activeViewId" : "8dda9eaa-bc2d-4243-9e2c-51bfc7ede441",
+  "appPageId" : "7945fd4d-d5d2-403e-bc9f-6f3a42c99835",
+  "configurationTags" : [ ],
+  "devName" : "list_500",
+  "id" : "1bce39c6-4c34-4fef-b8bc-3da06c078ca4",
+  "label" : "Case 목록",
+  "routeType" : "list-500",
+  "type" : "route",
+  "urlPrefix" : "case"
+}

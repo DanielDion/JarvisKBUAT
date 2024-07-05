@@ -1,0 +1,39 @@
+{
+  "appPageId" : "7945fd4d-d5d2-403e-bc9f-6f3a42c99835",
+  "componentName" : "siteforce:sldsOneColLayout",
+  "dataProviders" : [ ],
+  "id" : "56b2799b-f8c6-47a4-a4bb-217a8c745315",
+  "label" : "User 관련 목록",
+  "regions" : [ {
+    "id" : "31ea9fa0-634b-4c24-89bc-a36c0c8d2d6a",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "customTitle" : "",
+        "parentRecordId" : "{!recordId}",
+        "relatedListName" : "{!relationshipApiName}",
+        "showBreadCrumbs" : true,
+        "showCustomTitle" : false,
+        "showManualRefreshButton" : true,
+        "showRowNumbers" : true
+      },
+      "componentName" : "forceCommunity:relatedList",
+      "id" : "6547ad57-b896-4a71-ab1f-632451c20ee4",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "3489851f-988c-4af3-a54d-e188b20f5d8d",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "fee42f52-76ba-44d8-af49-4dd59a6ef5a0",
+    "regionName" : "footer",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "relatedlist-005"
+}

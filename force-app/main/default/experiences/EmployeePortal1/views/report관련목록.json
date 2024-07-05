@@ -1,0 +1,39 @@
+{
+  "appPageId" : "7945fd4d-d5d2-403e-bc9f-6f3a42c99835",
+  "componentName" : "siteforce:sldsOneColLayout",
+  "dataProviders" : [ ],
+  "id" : "a078899d-1447-47cc-a99b-65a9a50891fa",
+  "label" : "Report 관련 목록",
+  "regions" : [ {
+    "id" : "0c0f3e37-d434-451d-bb1c-2893ef09da76",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "customTitle" : "",
+        "parentRecordId" : "{!recordId}",
+        "relatedListName" : "{!relationshipApiName}",
+        "showBreadCrumbs" : true,
+        "showCustomTitle" : false,
+        "showManualRefreshButton" : true,
+        "showRowNumbers" : true
+      },
+      "componentName" : "forceCommunity:relatedList",
+      "id" : "1b35678b-82f1-4b71-b6aa-785e4e3b1473",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "29f815f0-e012-4a90-b34b-c7e846dba0b3",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "059132df-3483-4f9e-b289-af2a1733cbf7",
+    "regionName" : "footer",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "relatedlist-00O"
+}

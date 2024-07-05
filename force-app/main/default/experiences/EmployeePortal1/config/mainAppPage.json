@@ -1,0 +1,11 @@
+{
+  "cmsSettings" : { },
+  "currentThemeId" : "af6f5f19-1537-4b92-a2c7-7f0b78968736",
+  "headMarkup" : "<style>    \n\t@font-face {\n        /*font-family: 'F37 Zagma';\n         Replace myFont with your resource name\n        src: url('/sfsites/c/resource/J4RVIS_Assets/F37Zagma-Book.woff2') format('woff'); */\n\t}\n    body, p, li, h2, h2.contentTitle {\n       font-family: Arial !important;\n    }\n</style>",
+  "id" : "7945fd4d-d5d2-403e-bc9f-6f3a42c99835",
+  "isLockerServiceEnabled" : true,
+  "isRelaxedCSPLevel" : true,
+  "label" : "main",
+  "templateName" : "Service Community Template",
+  "type" : "appPage"
+}
